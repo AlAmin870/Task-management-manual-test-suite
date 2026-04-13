@@ -1,48 +1,45 @@
-# Manual Test Suite — Task Management Module
+Task Management System – Manual Test Suite
 
-## Overview
-Comprehensive manual test suite designed for an enterprise 
-Task Management system, covering 3 sub-modules with 513 test cases.
+Overview
+  Designed and executed a comprehensive manual test suite for an enterprise-level Task Management system, covering core modules and ensuring high system reliability and quality.
 
-## Test Coverage
-| Module                               | Test Cases |
-| Task Management (Basic Setup)        | 323 |
-| Task Management (Regular Activities) | 130 |
-| Task Management (Reports)            | 60 |
-| **Total**                            | **513** |
+Key Highlights
+  Developed and executed 513 test cases across 3 functional modules
+  Achieved 98.8% pass rate with validated system stability
+  Covered 15+ critical testing areas including functional, API, security, and performance
+  Identified and validated edge cases, improving overall system robustness
 
-## Test Categories Covered
-Functional, Validation, UI/UX, Security, Performance, 
-Integration, API Testing, Edge Case, Boundary, Data Integrity, 
-Concurrency, Audit, Compatibility, Usability, Error Handling, 
-and more (23 categories total)
+Test Coverage
+Module	                            Test Cases
+Task Management (Basic Setup)       	323
+Task Management (Regular Activities)	130
+Task Management (Reports)	             60
+Total	                                513
 
-## Results Summary
-| Metric           | Value |
-| Total Test Cases | 513 |
-| Passed           | 507 |
-| Not Applicable   | 6 |
-| Pass Rate        | 98.8% |
+Test Scope
+Functional, Validation, UI/UX, Security, Performance, Integration, API, Data Integrity, Concurrency, Compatibility, Usability, and Error Handling.
 
-## Priority Breakdown
-| Priority | Count |
-| High     | 205 |
-| Medium   | 244 |
-| Low      | 64 |
+Execution Summary     Metric	Value
+Total Test Cases	        513
+Passed	                  507
+Not Applicable	           6
+Pass Rate	               98.8%
 
-## Test Case Structure
+Priority Distribution
+Priority	Count
+High	    205
+Medium 	  244
+Low	       64
+
+Test Case Design
+
 Each test case includes:
-- Test Case ID
-- Title & Module
-- Test Category
-- Preconditions
-- Test Steps
-- Test Data
-- Expected Result
-- Actual Result
-- Priority & Severity
-- Status & Execution Date
+   ID, Module, and Category
+   Preconditions and Test Steps
+   Test Data and Expected Results
+   Actual Results and Defect Tracking
+   Priority, Severity, and Execution Status
 
-## Tools Used
-- Microsoft Excel
-- Manual Testing
+Tools & Environment
+   Microsoft Excel
+  Manual Testing
